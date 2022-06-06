@@ -17,5 +17,6 @@ public class AppConfig {
         Cat cat = new Cat();
         cat.setName("Мяу");
         return cat;
+
     }
 }

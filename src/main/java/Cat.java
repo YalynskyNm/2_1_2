@@ -8,4 +8,5 @@ public class Cat {
     public String getName() {
         return this.name;
     }
+
 }
